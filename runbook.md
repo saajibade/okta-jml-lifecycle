@@ -3,7 +3,7 @@
 ## Design Principles
 * **Group-Based Assignment Only:** Applications are wired strictly to groups, never to individual users, to prevent privilege creep and ensure clean automation.
 * **Attribute-Driven Membership:** Group memberships are dynamically computed based on identity attributes (e.g., Department) instead of being manually assigned by IT admins.
-* **Least-Privilege Admin:** Administrative access is restricted based on functional roles; helpdesk personnel are given only the specific access required to manage users and credentials without full configuration rights[cite: 1].
+* **Least-Privilege Admin:** Administrative access is restricted based on functional roles; helpdesk personnel are given only the specific access required to manage users and credentials without full configuration rights.
 
 ## Joiner
 * **Trigger:** A new employee is hired and added to the HR system (simulated via manual creation in the Okta directory)[cite: 1].
