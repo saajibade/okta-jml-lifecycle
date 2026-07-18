@@ -24,6 +24,8 @@ The comprehensive operating procedures, architecture overview, and design choice
 ## Honest Framing
 This is a laboratory build deployed inside a free Okta Integrator organization utilizing a fictional banking scenario[cite: 1]. Bookmark applications are used as functional stand-ins for federated applications; while the downstream single sign-on (SAML/OIDC) plumbing is omitted, the underlying group assignment logic, rule evaluation engine, policy enforcement, and System Log audit trails are identical to a production Okta deployment[cite: 1]. In an enterprise setting, the attribute changes executed by hand would ingest automatically via an HR system integration over SCIM[cite: 1].
 
-
+*<img width="766" height="340" alt="Step1-Environment-Provisioning" src="https://github.com/user-attachments/assets/4c2304e9-4fe4-4fbc-9b2f-53cd25408ba1" />
  *<img width="1091" height="535" alt="image" src="https://github.com/user-attachments/assets/f4e27199-6dfe-49d0-85a9-53ac7522370e" />
+ <img width="565" height="336" alt="Step2-Policy and Access writing" src="https://github.com/user-attachments/assets/d76e5edd-f00d-4ae9-83fb-9480dbc30393" />
+
  *<img width="1022" height="515" alt="image" src="https://github.com/user-attachments/assets/ab8820e5-3d15-4f41-b4f1-323650423454" />
