@@ -21,7 +21,8 @@ The standout moment of this project: changing a single department profile field 
 ![Admin Dashboard](evidence/04-hardening/01_admin_dashboard.png)
 * **[Mover](evidence/02-mover):** A single department attribute change cleanly revoked old permissions and granted new permissions simultaneously.
 * **📸 Evidence Capture Checklist:**
-* Take a screenshot of your complete **Groups List** displaying all four custom groups with zero manual users added yet.
+*<img width="1022" height="515" alt="image" src="https://github.com/user-attachments/assets/ab8820e5-3d15-4f41-b4f1-323650423454" />
+
 
 ![Empty Role Groups](evidence/01-joiner/01_empty_role_groups.png)
 * **[Leaver](evidence/03-leaver):** Single-click deactivation instantly killed all active user sessions and blocked authentication, providing a timestamped audit trail.
