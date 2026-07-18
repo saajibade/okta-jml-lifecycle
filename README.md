@@ -29,3 +29,7 @@ This is a laboratory build deployed inside a free Okta Integrator organization u
  <img width="565" height="336" alt="Step2-Policy and Access writing" src="https://github.com/user-attachments/assets/d76e5edd-f00d-4ae9-83fb-9480dbc30393" />
 
  *<img width="1022" height="515" alt="image" src="https://github.com/user-attachments/assets/ab8820e5-3d15-4f41-b4f1-323650423454" />
+ <img width="604" height="233" alt="image" src="https://github.com/user-attachments/assets/375195f7-0582-43a8-8c1e-d1a38e4b6bed" />
+ <img width="1037" height="587" alt="image" src="https://github.com/user-attachments/assets/13d6f161-c2b6-49d2-8f4b-a56f1c6a57a7" />
+
+
