@@ -16,6 +16,8 @@ The standout moment of this project: changing a single department profile field 
 * **[Joiner](evidence/01-joiner):** User created with explicit role attributes; birthright and department-specific access appeared instantly without manual intervention.
 * **📸 Evidence Capture Checklist:**
 * Take a screenshot of the main **Okta Admin Dashboard** showing the left-hand menu tabs (`Directory`, `Applications`, `Security`, `Reports`).
+* <img width="1091" height="535" alt="image" src="https://github.com/user-attachments/assets/f4e27199-6dfe-49d0-85a9-53ac7522370e" />
+
 
 ![Admin Dashboard](evidence/04-hardening/01_admin_dashboard.png)
 * **[Mover](evidence/02-mover):** A single department attribute change cleanly revoked old permissions and granted new permissions simultaneously.
