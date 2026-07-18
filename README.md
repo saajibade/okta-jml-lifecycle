@@ -48,4 +48,10 @@ This is a laboratory build deployed inside a free Okta Integrator organization u
 
 <img width="787" height="516" alt="leaver" src="https://github.com/user-attachments/assets/52cd9ed3-c615-4dd2-9713-06ca998728a4" />
 
+<img width="473" height="167" alt="image" src="https://github.com/user-attachments/assets/45a4b2fb-f803-40dc-aa91-76a63b3ddc68" />
+
+<img width="578" height="149" alt="image" src="https://github.com/user-attachments/assets/defe0a99-e877-483f-bfe6-462a173ec06c" />
+
+<img width="1009" height="496" alt="Administrator" src="https://github.com/user-attachments/assets/fdaae1d7-ba8f-4d8e-a87f-fc00dcb471b6" />
+
 
