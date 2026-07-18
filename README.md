@@ -41,3 +41,6 @@ This is a laboratory build deployed inside a free Okta Integrator organization u
 <img width="615" height="308" alt="image" src="https://github.com/user-attachments/assets/717e34b7-4ec3-4c37-956e-02d8846421e1" />
 
 <img width="1030" height="538" alt="image" src="https://github.com/user-attachments/assets/99788af6-1100-4176-a944-bf28c18f5078" />
+
+<img width="555" height="233" alt="Step7-executing-the-mover-phase" src="https://github.com/user-attachments/assets/ff05ef09-ae8e-4c3f-9885-a13137b042dc" />
+
