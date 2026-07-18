@@ -15,15 +15,10 @@ The standout moment of this project: changing a single department profile field 
 ## The Lifecycle, Evidenced
 * **[Joiner](evidence/01-joiner):** User created with explicit role attributes; birthright and department-specific access appeared instantly without manual intervention.
 * **📸 Evidence Capture Checklist:**
-* <img width="1091" height="535" alt="image" src="https://github.com/user-attachments/assets/f4e27199-6dfe-49d0-85a9-53ac7522370e" />
-
-
+*
 ![Admin Dashboard](evidence/04-hardening/01_admin_dashboard.png)
 * **[Mover](evidence/02-mover):** A single department attribute change cleanly revoked old permissions and granted new permissions simultaneously.
 * **📸 Evidence Capture Checklist:**
-*<img width="1022" height="515" alt="image" src="https://github.com/user-attachments/assets/ab8820e5-3d15-4f41-b4f1-323650423454" />
-
-
 ![Empty Role Groups](evidence/01-joiner/01_empty_role_groups.png)
 * **[Leaver](evidence/03-leaver):** Single-click deactivation instantly killed all active user sessions and blocked authentication, providing a timestamped audit trail.
 * **[Hardening](evidence/04-hardening):** Global MFA enforcement, optimized password policies following modern NIST/NCSC frameworks, and a scoped helpdesk admin assignment.
@@ -33,3 +28,7 @@ The comprehensive operating procedures, architecture overview, and design choice
 
 ## Honest Framing
 This is a laboratory build deployed inside a free Okta Integrator organization utilizing a fictional banking scenario. Bookmark applications are used as functional stand-ins for federated applications; while the downstream single sign-on (SAML/OIDC) plumbing is omitted, the underlying group assignment logic, rule evaluation engine, policy enforcement, and System Log audit trails are identical to a production Okta deployment. In an enterprise setting, the attribute changes executed by hand would ingest automatically via an HR system integration over SCIM. 
+
+
+ *<img width="1091" height="535" alt="image" src="https://github.com/user-attachments/assets/f4e27199-6dfe-49d0-85a9-53ac7522370e" />
+ *<img width="1022" height="515" alt="image" src="https://github.com/user-attachments/assets/ab8820e5-3d15-4f41-b4f1-323650423454" />
