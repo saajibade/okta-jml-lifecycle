@@ -32,4 +32,6 @@ This is a laboratory build deployed inside a free Okta Integrator organization u
  <img width="604" height="233" alt="image" src="https://github.com/user-attachments/assets/375195f7-0582-43a8-8c1e-d1a38e4b6bed" />
  <img width="1037" height="587" alt="image" src="https://github.com/user-attachments/assets/13d6f161-c2b6-49d2-8f4b-a56f1c6a57a7" />
 
+<img width="625" height="239" alt="image" src="https://github.com/user-attachments/assets/9385fcc7-4c9a-4cbc-afb4-12551fc45600" />
 
+<img width="1073" height="455" alt="image" src="https://github.com/user-attachments/assets/327198e8-9f19-49e0-b52d-e8032bc47eb3" />
